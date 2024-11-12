@@ -127,14 +127,14 @@
 }
 
 .heading video {
-    width: 100%;          /* Full width to adjust with all screen sizes */
-    max-width: 1200px;    /* Optional: Restrict maximum width for larger screens */
-    height: auto;         /* Maintain aspect ratio */
-    margin-top: 20px;     /* Add margin to move it away from the top */
-    display: block;       /* Ensures there’s no extra space around the video */
-    margin-left: auto;    /* Center the video horizontally */
-    margin-right: auto;   /* Center the video horizontally */
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);  /* Optional: Add a subtle shadow for better visual effect */
+    width: 100%;          
+    max-width: 1200px;    
+    height: auto;         
+    margin-top: 20px;     
+        display: block;   
+    margin-left: auto;    
+    margin-right: auto;   
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);  
 }
 
 .Scroll-Arrow a i{
